@@ -28,6 +28,6 @@ git checkout
 
 отображение всех веток
 ```sh
-git branch
+git branch 
 ```
  

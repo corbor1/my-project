@@ -38,3 +38,7 @@ git branch
  ## Инструкция по GIT HUB
 
  Отправление информации на сервер GIT HUB
+ ```sh
+ git push 
+ ```
+ 
